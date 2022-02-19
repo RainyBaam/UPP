@@ -3,6 +3,18 @@
 ![Лабораторная работа 1  Диаграмма Ганта](https://github.com/RainyBaam/UPP/blob/main/download.png)
 
 # Лабораторная работа 5. Макетирование
+## Главная страница - Desktop
+![Главная страница - Desktop](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+## О нас 
+![О нас](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+## Написать статью
+![Написать статью](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+## Личный кабинет - Desktop
+![Личный кабинет - Desktop](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+## Главная страница - Mobile
+![Главная страница - Mobile](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+## Личный кабинет - Mobile
+![Личный кабинет - Mobile](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
 
 # Лабораторная работа 6. Построение UML-диаграмм
 ## Описание предметной области
