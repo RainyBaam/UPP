@@ -4,17 +4,17 @@
 
 # Лабораторная работа 5. Макетирование
 ## Главная страница - Desktop
-![Главная страница - Desktop](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+![Главная страница - Desktop](https://github.com/RainyBaam/UPP/blob/main/main.png)
 ## О нас 
-![О нас](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+![О нас](https://github.com/RainyBaam/UPP/blob/main/about.png)
 ## Написать статью
-![Написать статью](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+![Написать статью](https://github.com/RainyBaam/UPP/blob/main/статья.png)
 ## Личный кабинет - Desktop
-![Личный кабинет - Desktop](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+![Личный кабинет - Desktop](https://github.com/RainyBaam/UPP/blob/main/account.png)
 ## Главная страница - Mobile
-![Главная страница - Mobile](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+![Главная страница - Mobile](https://github.com/RainyBaam/UPP/blob/main/mobile1.png)
 ## Личный кабинет - Mobile
-![Личный кабинет - Mobile](https://github.com/RainyBaam/UPP/blob/main/UML1.jpg)
+![Личный кабинет - Mobile](https://github.com/RainyBaam/UPP/blob/main/mobile2.png)
 
 # Лабораторная работа 6. Построение UML-диаграмм
 ## Описание предметной области
